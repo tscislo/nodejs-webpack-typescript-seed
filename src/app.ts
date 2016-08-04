@@ -1,5 +1,5 @@
-import GoogleAPI from './services/GoogleAPI.class';
+import SampleClass from './services/SampleClass.class';
 
 console.log('START');
 
-let googleAPI = new GoogleAPI();
+let sampleClass = new SampleClass();
